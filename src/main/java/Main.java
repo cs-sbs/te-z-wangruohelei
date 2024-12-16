@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OddEvenCounter {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int oddCount = 0;
